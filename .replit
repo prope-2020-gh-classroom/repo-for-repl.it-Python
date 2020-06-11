@@ -1,12 +1,24 @@
 
- language = "python3"
-run = ""
-run
+language = "python3"
+run = "python clase_10_junio_2020.py"
 
 
 
 
-variable = "hola "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
