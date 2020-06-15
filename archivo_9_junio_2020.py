@@ -15,4 +15,3 @@ print("Variable: ", a)
  
 def otra_funcion():
   return("Hola")
-
