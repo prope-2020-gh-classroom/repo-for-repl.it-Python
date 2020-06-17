@@ -1,4 +1,4 @@
-string = """The merry old queen of Katoren has died
+ string = """The merry old queen of Katoren has died
 and there’s no heir to the throne. Six sour ministers rule the land
 and claim that they’re looking for a new queen,
 but nothing happens – for seventeen years. 

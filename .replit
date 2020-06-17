@@ -1,6 +1,17 @@
 
 language = "python3"
-run = "python3 clase_10_junio_2020.py && echo 'archivo 9 de junio' && python3 archivo_9_junio_2020.py"
+run = "python3 central_finite_derivative.py"
+
+
+
+
+
+
+
+
+
+
+
 
 
 

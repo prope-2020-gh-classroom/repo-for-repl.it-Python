@@ -1,0 +1,13 @@
+from central_finite_derivative import approx_first_derivative, approx_second_derivative
+
+
+
+import math
+f = math.atan
+x = 0.9
+h = 1e-6
+
+approx_first_derivative(f,x,h)
+approx_second_derivative(f,x,h)
+
+
