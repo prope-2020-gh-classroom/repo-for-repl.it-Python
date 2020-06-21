@@ -1,6 +1,6 @@
 
 language = "python3"
-run = "python3 central_finite_derivative.py"
+run = "python3 16_june_class/central_finite_derivative.py"
 
 
 
